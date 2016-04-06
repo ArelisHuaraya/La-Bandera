@@ -1,0 +1,21 @@
+div{
+	
+	display: inline-block;
+	margin: 5px;
+	text-align: center;
+	
+	
+}
+
+	.uno{
+		background-color: yellow;
+		
+	}
+	.dos{
+		background-color: red;
+		
+	}
+	.tres{
+		background-color: yellow;
+		
+	}

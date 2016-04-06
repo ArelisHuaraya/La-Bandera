@@ -1,0 +1,17 @@
+div{
+	
+	display: block;
+
+}
+	.uno{
+		background-color: yellow;
+		border: 2px solid yellow;
+	}
+	.dos{
+		background-color: red;
+		border: 2px solid red;
+	}
+	.tres{
+		background-color: yellow;
+		border: 2px solid yellow;
+	}

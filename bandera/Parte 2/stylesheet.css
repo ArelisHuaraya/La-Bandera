@@ -1,0 +1,16 @@
+div{
+	height: 100px;
+	width: 200px;
+	border: 10px;
+	display: block;
+
+}
+	.uno{
+		background-color: yellow;
+	}
+	.dos{
+		background-color: red;
+	}
+	.tres{
+		background-color: yellow;
+	}
